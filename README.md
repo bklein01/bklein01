@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bklein01
-- 👀 I develop applications using PHP using the Symfony framework.
+- 👀 I develop applications using PHP using the Symfony framework as well as Node.JS.
 - 👀 I’m also interested in developing applications with Oracle Apex and PL/SQL. I love all things databases, especially Oracle, MongoDB, and MySQL. I will dabble with PostgreSQL and SQL Server too, but not as much. 
 - 🌱 I’m currently learning Oracle Apex and Oracle Cloud administration.
 - 💞️ I’m looking to collaborate on different and interesting projects with business focus.
